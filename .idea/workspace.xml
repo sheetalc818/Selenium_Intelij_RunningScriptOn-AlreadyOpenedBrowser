@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd824dfa-dfdd-4705-8945-df306b80f39c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WkCchoVvKhLPYKVQyWQ6mdJbfN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ITestListenerDemo" />
+  </component>
+  <component name="RunManager">
+    <configuration name="/home/sheetal/IdeaProjects/RunningScriptOnAlreadyOpenedBrowser/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RunningScriptOnAlreadyOpenedBrowser" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../ITestListenerDemo" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../ITestListenerDemo" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./home/sheetal/IdeaProjects/RunningScriptOnAlreadyOpenedBrowser/testng.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd824dfa-dfdd-4705-8945-df306b80f39c" name="Default Changelist" comment="" />
+      <created>1579684286339</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579684286339</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1797" height="560" key="GridCell.Tab.0.bottom" timestamp="1579688965519">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state width="1797" height="560" key="GridCell.Tab.0.bottom/67.34.1853.1046@67.34.1853.1046" timestamp="1579688965519" />
+    <state width="1797" height="560" key="GridCell.Tab.0.center" timestamp="1579688965517">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state width="1797" height="560" key="GridCell.Tab.0.center/67.34.1853.1046@67.34.1853.1046" timestamp="1579688965517" />
+    <state width="1797" height="560" key="GridCell.Tab.0.left" timestamp="1579688965515">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state width="1797" height="560" key="GridCell.Tab.0.left/67.34.1853.1046@67.34.1853.1046" timestamp="1579688965515" />
+    <state width="1797" height="560" key="GridCell.Tab.0.right" timestamp="1579688965518">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state width="1797" height="560" key="GridCell.Tab.0.right/67.34.1853.1046@67.34.1853.1046" timestamp="1579688965518" />
+  </component>
+</project>
